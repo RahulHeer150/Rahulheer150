@@ -1,5 +1,36 @@
-# 👋 Hey there! I'm Rahul Heer
+<h1 align="center">Hi 👋, I'm Rahul Heer</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | React | Node.js</h3>
 
+<h3 align="center">🚀 Building Real-World Projects & Scalable Web Apps</h3>
+<h3 align="center">💡 Ask me about Web Development, Backend Systems & MERN Stack</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RahulHeer150&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RahulHeer150">
+    <img src="https://img.shields.io/badge/GitHub-RahulHeer150-black?logo=github"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Heer-blue?logo=linkedin"/>
+  </a>
+  
+  <a href="https://leetcode.com/your-username/">
+    <img src="https://img.shields.io/badge/LeetCode-your--username-orange?logo=leetcode"/>
+  </a>
+  
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-contact-red?logo=gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="your-resume-link.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-success?logo=adobeacrobatreader"/>
+  </a>
+</p>
 ### 🚀 Full Stack Developer | MERN Stack | Problem Solver  
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
